@@ -1,1 +1,5 @@
 console.log("Novo arquivo adicionado")
+console.log("Novidade nova!")
+console.log("Novidade nova!")
+console.log("Novidade nova!")
+console.log("Novidade nova!")
